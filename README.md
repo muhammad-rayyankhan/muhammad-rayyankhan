@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Muhammad Rayyan Khan
 
-<!--
-**muhammad-rayyankhan/muhammad-rayyankhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer exploring the world of software development and also doing bachelors in Software Engineering.  
+Right now, I'm learning different languages and tools to discover what I enjoy most. 
 
-Here are some ideas to get you started:
+## What I Know:
+- C
+- C++
+- Python
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning:
+- Java
+- PHP
+- Kotlin
+
+I don't have any public projects yet, but I'm focused on learning, practicing, and building a solid foundation.  
+As I grow, I plan to start creating small projects and sharing them here. I am trying to improve myself every single day
+
+Thanks for visiting my profile.
+
+You can connect me on Linkedin : [My Linkedin](https://www.linkedin.com/in/iamrayyan001/)
